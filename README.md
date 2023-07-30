@@ -1,4 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://i.gifer.com/39Cg.gif)
+
 <h1 align="center">Hi 👋, I'm Garvit Singh</h1>
 <h3 align="center">As a backend developer specializing in Django, I design and develop robust server-side applications using Python, leveraging Django's powerful framework to create scalable, secure, and feature-rich web applications. I also implement APIs, handle database management, and ensure seamless integration with front-end components.</h3>
 
