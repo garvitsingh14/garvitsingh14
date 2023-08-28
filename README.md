@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **garvitsingh1401@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1umuTgX89O5OWDqFr9-KnaShteR0TKxDG/view?usp=sharing](https://drive.google.com/file/d/1umuTgX89O5OWDqFr9-KnaShteR0TKxDG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xKE5IokeRWvEJn8c3uKDu-PrJQXZ179x/view?usp=sharing]
 
 - ⚡ Fun fact **Yoda is not an Animal**
 
