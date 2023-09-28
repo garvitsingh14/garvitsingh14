@@ -1,7 +1,7 @@
 ![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 
 <h1 align="center">Hi 👋, I'm Garvit Singh</h1>
-<h3 align="center">As a backend developer specializing in Django, I design and develop robust server-side applications using Python, leveraging Django's powerful framework to create scalable, secure, and feature-rich web applications. I also implement APIs, handle database management, and ensure seamless integration with front-end components.</h3>
+<h3 align="center" > "As a backend developer specializing in Django, I design and develop robust server-side applications using Python, leveraging Django's powerful framework to create scalable, secure, and feature-rich web applications. I also implement APIs, handle database management, and ensure seamless integration with front-end components."</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
